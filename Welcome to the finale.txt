@@ -1,0 +1,23 @@
+👾 Welcome to the AI Club Interactive System!
+Enter a name (or type 'exit' to quit): Eric
+🎉 Eric, you're the Club Founder!
+✔ Member status saved!
+Enter a name (or type 'exit' to quit): John
+Hey John, you’re now part of the AI club!
+✔ Member status saved!
+Enter a name (or type 'exit' to quit): Ada
+Hey Ada, you’re now part of the AI club!
+✔ Member status saved!
+Enter a name (or type 'exit' to quit): Paul
+Hey Paul, you’re now part of the AI club!
+✔ Member status saved!
+Enter a name (or type 'exit' to quit): Joy
+Hey Joy, you’re now part of the AI club!
+✔ Member status saved!
+Enter a name (or type 'exit' to quit): Stephane
+Hey Stephane, you’re now part of the AI club!
+✔ Member status saved!
+Enter a name (or type 'exit' to quit): quit
+👋 Bye! See you next time.
+
+[Program finished]
